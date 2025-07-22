@@ -1,16 +1,17 @@
-## Hi there 👋
+# <div align="center">🚀 **Ajithkumar**</div>
 
-<!--
-**ajithkumars2803/ajithkumars2803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+[![DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD]([https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://link.notharshhaa.site](https://images.squarespace-cdn.com/content/v1/661399b472129266540899dc/1727747249227-P74ENKASK3Y3VIN79IHH/devopsvsdeveloper--1-.png?format=1500w))
 
-Here are some ideas to get you started:
+<img src="https://imgur.com/CvgYNnv.png" alt="aboutme" width="800px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<div align="center">
+  <p><strong>Hey there!</strong> 👋 I'm a passionate DevOps Engineer on a mission to automate everything and scale cloud infrastructures efficiently.</p>
+</div>
+
+<br>
+
+## 💫 About Me
