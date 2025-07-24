@@ -1,13 +1,13 @@
-# <div align="center">🚀 **Ajithkumar**</div>
+# <div align="center">🚀 **Ajithkumar** — DevOps Engineer</div>
 
 <div align="center">
   
-[![DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://github.com/ajithkumars28)
+[![DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD](https://img.shields.io/badge/DevOps_Engineer_%7C_Cloud_%7C_Automation_%7C_Kubernetes_%7C_CI/CD-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://github.com/ajithkumars2803)
 
 </div>
 
 <div align="center">
-  <p><strong>Hey there!</strong> 👋 I'm a passionate DevOps Engineer on a mission to automate everything and scale cloud infrastructures efficiently.</p>
+  <p><strong>Hi there! 👋</strong> I'm a DevOps Engineer with a passion for automation, cloud infrastructure, and scalable system design. I specialize in building robust CI/CD pipelines and cloud-native solutions.</p>
 </div>
 
 <br>
@@ -20,19 +20,22 @@
 
 ### What I Do
 - 🌩️ **Cloud & DevOps Specialist**
-  - Architecting scalable infrastructures
-  - AWS, Azure, Kubernetes, Terraform
+  - Designing scalable, cloud-native infrastructure
+  - Hands-on with AWS, Azure, Kubernetes, Terraform
 - 🤖 **Automation Enthusiast**
-  - CI/CD pipelines
-  - Infrastructure as Code (IaC)
+  - Building CI/CD pipelines
+  - Embracing Infrastructure as Code (IaC)
 
 </td>
 <td width="50%">
 
 ### Quick Links
-#[![Portfolio](https://img.shields.io/badge/Portfolio-example.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://example.com)
-#[![Resume](https://img.shields.io/badge/Resume-cv.example.com-007ACC?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://cv.example.com)
-#[![Links](https://img.shields.io/badge/All%20Links-linktr.ee%2Fajithkumar-8A2BE2?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ajithkumar)
+<!-- Uncomment and update these if you have them -->
+<!--
+[![Portfolio](https://img.shields.io/badge/Portfolio-ajith.dev-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://ajith.dev)<br>
+[![Resume](https://img.shields.io/badge/Resume-Click_Here-007ACC?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://your-resume-link.com)<br>
+[![Links](https://img.shields.io/badge/Links-linktr.ee%2Fajithkumar-8A2BE2?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ajithkumar)
+-->
 
 </td>
 </tr>
@@ -47,7 +50,7 @@
 
 </div>
 
-## ⚡ Tech Stack
+<h2 align="center">⚡ Tech Stack</h2>
 
 <div align="center">
   <table>
@@ -55,28 +58,28 @@
       <!-- Left Column -->
       <td valign="top" align="left">
         <h3>Cloud & Platforms</h3>
-        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"><br>
-        <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"><br>
-        <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"><br><br>
+        <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"><br><br>
 
         <h3>Containers & Orchestration</h3>
-        <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"><br>
-        <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"><br>
-        <img src="https://img.shields.io/badge/Helm-%232C5263.svg?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"><br>
+        <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Helm-%232C5263.svg?style=for-the-badge&logo=helm&logoColor=white"><br>
       </td>
 
       <!-- Right Column -->
       <td valign="top" align="left">
         <h3>DevOps & CI/CD</h3>
-        <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"><br>
-        <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"><br>
-        <img src="https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"><br><br>
+        <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"><br><br>
 
         <h3>Infrastructure & Monitoring</h3>
-        <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"><br>
-        <img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"><br>
-        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus"><br>
-        <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"><br>
+        <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"><br>
       </td>
     </tr>
   </table>
