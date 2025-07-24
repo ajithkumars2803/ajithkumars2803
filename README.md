@@ -21,7 +21,7 @@
 ### What I Do
 - 🌩️ **Cloud & DevOps Specialist**
   - Architecting scalable infrastructures
-  - AWS, Azure, Kubernetes expert
+  - AWS, Azure, Kubernetes, Terraform
 - 🤖 **Automation Enthusiast**
   - CI/CD pipelines
   - Infrastructure as Code (IaC)
@@ -30,10 +30,9 @@
 <td width="50%">
 
 ### Quick Links
-[![Portfolio](https://img.shields.io/badge/Portfolio-example.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://example.com)
-[![Resume](https://img.shields.io/badge/Resume-cv.example.com-007ACC?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://cv.example.com)
-[![Blog](https://img.shields.io/badge/Blog-blog.example.com-FFA500?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.example.com)
-[![Links](https://img.shields.io/badge/All%20Links-linktr.ee%2Fajithkumar-8A2BE2?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ajithkumar)
+#[![Portfolio](https://img.shields.io/badge/Portfolio-example.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://example.com)
+#[![Resume](https://img.shields.io/badge/Resume-cv.example.com-007ACC?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://cv.example.com)
+#[![Links](https://img.shields.io/badge/All%20Links-linktr.ee%2Fajithkumar-8A2BE2?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ajithkumar)
 
 </td>
 </tr>
@@ -44,7 +43,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ajithkumars28)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajithkumars28)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajithkumars2803)
 
 </div>
 
